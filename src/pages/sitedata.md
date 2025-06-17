@@ -3,11 +3,10 @@ templateKey: site-data
 published: true
 name: Rex Wempen
 jobTitle: Managing Director at Pantek Securities
-location: Washington, DC. USA
-profileImage:
-  src: /img/rex-wempen-has-over-twenty-years-of-energy-and-technology-sector-experience-copy.jpeg
-  alt: Rex Wempen
+siteName: https://rexwempen.us/admin
 siteUrl: https://Rexwempen.us
+siteAnalytics: null
+favicon: /img/rex-wempen-favicon.png
 socialLinks:
   twitter:
     url: https://www.x.com
@@ -29,12 +28,13 @@ socialLinks:
     url: null
     label: Visit
     show: false
-siteName: Chandler Villacruz
-favicon: /img/rex-wempen-favicon.png
+profileImage:
+  src: /img/rex-wempen-has-over-twenty-years-of-energy-and-technology-sector-experience-copy.jpeg
+  alt: Rex Wempen
+fallbackImage: /img/pic-executive-main-banner-01.webp
 themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
-fallbackImage: /img/pic-executive-main-banner-01.webp
-siteAnalytics: null
+location: Washington, DC. USA
 ---
