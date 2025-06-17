@@ -1,0 +1,54 @@
+---
+templateKey: blog-post
+schemaType: BlogPosting
+pageTitle: Europe pursues energy diversification as it implements transition to renewables
+metaDescription: European nations have continued to invest in projects that aim
+  to diversify the region’s sources of energy, including new wind farms, solar
+  fields and oil and gas fields in the North Sea
+published: true
+date: 2023-04-07T19:52:01.936Z
+teaser: European nations have continued to invest in projects that aim to
+  diversify the region’s sources of energy, including new wind farms, solar
+  fields and oil and gas fields in the North Sea
+featuredImage:
+  src: /img/europe-pursues-energy-diversification.jpg
+---
+##### *Originally published at [Europe in Review](https://email.cpg-online.de/t/d-E89FAFE171E704422540EF23F30FEDED) on April, 2023*
+
+European nations have continued to invest in projects that aim to diversify the region’s sources of energy, including new wind farms, solar fields and oil and gas fields in the North Sea, North Africa and Mediterranean, as they seek to prevent supply shortages in the mid-term as they carry out their energy transition. [[FT](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-uut/)]
+
+The Italian export credit agency, Servizi Assicurativi del Commercio Estero, announced in March plans to support international oil and gas exploration through 2026. In January, Italian oil giant ENI committed to EUR 8 billion in investment in offshore Libyan oil fields.
+
+Germany has committed to massive infrastructure expansion to enable LNG imports from the US and the Middle East. The German Bundestag has approved a EUR 10 billion investment package to continue support for six new floating storage and regasification units, though "it is already clear now, that more cost increases will have to be added," according to a paper issued by the Economy Ministry. [[Reuters](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-uui/)] [[Reuters](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-uud/)]
+
+Europe is moving ahead with its energy transition plans as it makes short and medium term adjustments to compensate for the loss of Russian oil and gas with natural gas import terminals and overseas oil and gas exploration and production investments.
+
+The European Union parliament agreed on March 28 to ban the production of combustion engine vehicles in 2035, with a compromise sought by Germany to enable these vehicles to be produced if they utilise synthetic “e-fuels” derived from hydrogen. These fuels are so called drop-in fuels, which means that they can be blended with gasoline in any ratio. [[WSJ](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-uuh/)] [[EFuel Alliance](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-uuk/)] *(See separate story in this issue)*
+
+Other European countries also announced projects that aim to diversify their energy sources.
+
+The United Kingdom signalled plans for an expansion of government investment and support for wind, solar, and nuclear power projects on March 30. [[Energy Live News](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-uuu/)]
+
+The French parliament voted for significant expansion of the national nuclear power program on March 21 to build six new nuclear reactors at a cost of EUR 52 billion. Polish lawmakers voted on March 10 to relax restrictions on wind energy project construction in a move sought by the EU. [[AP News](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-oll/)]
+
+The Czech energy transmission system operator (CEPS) announced March 1 that the country will require electricity imports from 2030 due to the phase outs of coal power plants which have made the country self-sufficient in terms of energy generation. [[Reuters](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-olr/)]
+
+The Portuguese EDP energy company announced it is nearing completion of Europe’s largest floating solar park on March 13, two months after Spanish energy company Iberdrola announced completion of Europe’s largest ground based solar project. [[WEF](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-oly/)] [[P-V Tech](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-olj/)]
+
+*Collective agreement*
+
+Collectively, EU countries have agreed to increase the production of renewable energy in a provisional deal which sets out the bloc’s path to achieve a 55 percent reduction in greenhouse gas emissions by the end of the decade. The agreement, known as the Renewable Energy Directive, saw EU countries pledge on March 30 to nearly double their renewable energy output by 2030, raising it to represent 42.5 percent of the bloc’s total energy consumption. [[Euronews](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-olt/)]
+
+The deal also saw France and Germany reach a compromise over whether hydrogen produced using electricity generated by nuclear power should feature in the bloc’s renewable targets.
+
+France and other pro-nuclear EU countries have been pushing to include the low-carbon emitting energy source in the EU’s climate targets. Germany, whose governing coalition includes a nuclear-sceptic Green party, had opposed the deal, alongside other EU members hostile to nuclear energy.
+
+Berlin and Paris ultimately agreed to label nuclear hydrogen “low carbon” rather than “green,” recognising nuclear energy as “neither green nor fossil,” French MEP Pascal Canfin, who leads the European Parliament's Environment Committee, [tweeted](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-oli/).
+
+The EU is also striving to accelerate the energy transition outside the bloc, with member states agreeing on March 10 to push for a worldwide phase-out of fossil fuels at COP28, the UN climate summit is set to take place in Dubai this November. [[Euronews](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-old/)]
+
+Countries failed to agree on a phaseout of fossil fuels at the previous UN climate talks, COP27, after the intervention of countries like Saudi Arabia.
+
+The move could be overshadowed by the United Arab Emirates’ controversial decision to name the CEO of one of the world’s largest oil companies as the president of the climate summit. [[Euronews](https://asiangovernancefoundation.createsend1.com/t/d-l-zktmtd-l-olh/)]
+
+(rw-qv/gc)
