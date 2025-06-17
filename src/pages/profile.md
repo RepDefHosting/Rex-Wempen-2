@@ -11,7 +11,7 @@ published: true
 schemaType: ProfilePage
 header: Rex Wempen
 featuredImage:
-  src: /img/businessbuildings.jpg
+  src: /img/pexels-cz-jen-3774356-10047720.jpg
   alt: Hero Image
   caption: null
 connectWithMe: Washington
