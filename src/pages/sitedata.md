@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Rex Wempen
+jobTitle: Managing Director at Pantek Securities
+location: Washington, DC. USA
 profileImage:
-  src: ""
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/rex-wempen-has-over-twenty-years-of-energy-and-technology-sector-experience-copy.jpeg
+  alt: Rex Wempen
+siteUrl: https://Rexwempen.us
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/rex-wempen/
     label: Visit
     show: true
   pinterest:
