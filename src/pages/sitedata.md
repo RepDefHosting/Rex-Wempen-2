@@ -30,7 +30,7 @@ socialLinks:
     label: Visit
     show: false
 siteName: Chandler Villacruz
-favicon: /img/favicon.png
+favicon: /img/rex-wempen-favicon.png
 themeOptions:
   colorScheme: londn
   fontScheme: muli
