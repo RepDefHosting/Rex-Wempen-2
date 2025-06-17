@@ -2,7 +2,8 @@
 templateKey: gallery-archive
 pageSlug: /gallery
 pageTitle: Gallery
-metaDescription: Gallery Page of Chandler Villacruz, Senior Marketing Manager
+metaDescription: Rex Wempen has over twenty years of energy and technology
+  sector experience. He has led development and consulted on multip
 published: true
 schemaType: WebPage
 header: Gallery
